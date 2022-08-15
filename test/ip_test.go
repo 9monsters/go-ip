@@ -6,7 +6,7 @@ import (
 	"sort"
 	"testing"
 
-	"go-ip/pkg"
+	goip "github.com/nine-monsters/go-ip/goip/pkg"
 )
 
 func TestIsIpV4(t *testing.T) {
