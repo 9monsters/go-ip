@@ -1,12 +1,12 @@
 package test
 
 import (
+	goip "github.com/nine-monsters/go-ip/pkg"
+
 	"net"
 	"reflect"
 	"sort"
 	"testing"
-
-	goip "github.com/nine-monsters/go-ip/goip/pkg"
 )
 
 func TestIsIpV4(t *testing.T) {

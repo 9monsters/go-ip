@@ -1,3 +1,3 @@
-module github.com/nine-monsters/go-ip/goip
+module github.com/nine-monsters/go-ip
 
 go 1.19
