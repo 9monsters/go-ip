@@ -1,3 +1,5 @@
+# Deprecated, it is recommended to use [go-hutool/hutool-core/net](https://github.com/nine-monsters/go-hutool)
+
 # go-ip
 [![Software License](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)](https://github.com/nine-monsters/go-ip/blob/master/LICENSE)
 [![goreport](https://www.goreportcard.com/badge/github.com/nine-monsters/go-ip)](https://www.goreportcard.com/report/github.com/nine-monsters/go-ip)
